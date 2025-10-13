@@ -2,3 +2,4 @@ RAT_pedal-backups/
 \#auto_saved_files\#
 *.lck
 gerbers/
+fp-info-cache
